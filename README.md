@@ -1,5 +1,5 @@
 ### Description
-This repository is part of my thesis on prediction of energy demand using LSTM based neural network models. The source code of this entire research project is available for public use under the **[MIT License](LICENSE.md)**. 
+This repository is part of my thesis on prediction of energy demand using LSTM based neural network models.
 
 Included are python notebook files that account for every distinct stage of the implementation, including the **Visualization**, **Preprocessing** and **Feature Extraction**, **Experiments**, **Final Model** and **Results** phases.
 
